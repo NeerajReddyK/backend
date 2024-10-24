@@ -1,0 +1,19 @@
+{
+  "appointments": [
+    {
+      "date": "2024-10-26",
+      "slot": "10:30 AM - 10:45 AM",
+      "doctorId": 2,
+      "id": 1,
+      "patientDetails": {
+        "fullName": "Neeraj Reddy",
+        "age": 32,
+        "gender": "Male",
+        "mobileNumber": "1234567890",
+        "weight": 32,
+        "problem": "Unable to state, what to state",
+        "relationshipWithPatient": "Self"
+      }
+    }
+  ]
+}
